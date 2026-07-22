@@ -80,3 +80,9 @@ feature/data-cleaning
 feature/model-training
 
 fix/csv-validation
+
+## Code Review Checklist
+
+- Code readability
+- Tests passed
+- Documentation updated
