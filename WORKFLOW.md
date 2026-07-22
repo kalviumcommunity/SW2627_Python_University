@@ -72,3 +72,11 @@ Issues include:
 - Assignee
 
 Issues are closed automatically after the Pull Request is merged.
+
+## Branch Naming Examples
+
+feature/data-cleaning
+
+feature/model-training
+
+fix/csv-validation
