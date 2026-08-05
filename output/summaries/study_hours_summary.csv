@@ -1,0 +1,4 @@
+Study Hours Category,Student Count,Avg Final Exam Marks
+Low (< 2 hrs),320,48.5
+Moderate (2-4 hrs),1150,65.2
+High (> 4 hrs),530,73.8
