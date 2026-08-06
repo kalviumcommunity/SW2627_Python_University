@@ -1,4 +1,11 @@
+report-generation
 Study Hours Category,Student Count,Avg Final Exam Marks
 Low (< 2 hrs),320,48.5
 Moderate (2-4 hrs),1150,65.2
 High (> 4 hrs),530,73.8
+=======
+Study_Hours_Category,Average_Internal_Score,Engagement_Score,Final Exam Marks (out of 100)
+High,35.83,0.9,82.0
+Low,30.94,0.65,58.54
+Moderate,32.79,0.75,67.2
+main
