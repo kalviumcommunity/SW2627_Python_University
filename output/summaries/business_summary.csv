@@ -1,3 +1,10 @@
+report-generation
+Metric,Value
+Total Students,2000.0
+Average Attendance (%),84.89
+Average Final Exam Marks,64.86
+At-Risk Rate (%),14.5
+=======
 ,Attendance (%),Internal Test 1 (out of 40),Internal Test 2 (out of 40),Assignment Score (out of 10),Daily Study Hours,Final Exam Marks (out of 100),Average_Internal_Score,Total_Internal_Score,Engagement_Score
 count,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0
 mean,84.89,32.12,32.46,7.51,2.82,64.86,32.29,64.58,0.72
@@ -7,3 +14,4 @@ min,52.0,18.0,16.0,4.0,1.0,25.0,19.5,39.0,0.41
 50%,85.0,32.0,33.0,8.0,3.0,65.0,32.5,65.0,0.72
 75%,90.0,35.0,36.0,8.0,3.0,73.0,35.0,70.0,0.77
 max,100.0,40.0,40.0,10.0,5.0,100.0,40.0,80.0,0.93
+main

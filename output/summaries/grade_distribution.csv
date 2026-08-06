@@ -1,3 +1,11 @@
+report-generation
+Grade,Score Range,Student Count,Percentage (%)
+A,85-100,310,15.5
+B,70-84,820,41.0
+C,55-69,580,29.0
+D,40-54,210,10.5
+F,< 40,80,4.0
+=======
 Performance_Grade,count
 A,15
 B,197
@@ -5,3 +13,4 @@ C,474
 D,694
 E,432
 F,188
+main

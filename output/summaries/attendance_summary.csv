@@ -1,5 +1,12 @@
+report-generation
+Attendance Range,Student Count,Avg Final Exam Marks
+< 75%,185,43.2
+75% - 85%,840,62.5
+> 85%,975,71.0
+=======
 Attendance_Category,Average_Internal_Score,Engagement_Score,Final Exam Marks (out of 100)
 Average,28.39,0.63,50.08
 Excellent,34.97,0.78,74.47
 Good,31.66,0.71,62.69
 Poor,23.25,0.47,34.0
+main

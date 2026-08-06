@@ -1,3 +1,11 @@
+report-generation
+Feature,Importance
+Attendance (%),0.35
+Internal Test 2,0.25
+Internal Test 1,0.18
+Daily Study Hours,0.12
+Assignment Score,0.1
+=======
 ,Final Exam Marks (out of 100)
 Final Exam Marks (out of 100),1.0
 Average_Internal_Score,0.8683112726534788
@@ -8,3 +16,4 @@ Internal Test 2 (out of 40),0.6910491091573766
 Internal Test 1 (out of 40),0.6892272196018969
 Assignment Score (out of 10),0.6694002777145331
 Daily Study Hours,0.4128769174708354
+main

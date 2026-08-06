@@ -1,4 +1,10 @@
 Business Insights
+report-generation
+Attendance below 75% is the single strongest indicator of academic risk.
+Daily study hours correlate positively with both internal tests and final exam scores.
+Low performance in Internal Test 1 serves as a crucial early predictor of final exam failure.
+High assignment completion rates buffer against performance drops in final examinations.
+=======
 69.35% of students belong to the 'Moderate Risk' category.
 21.25% of students belong to the 'Low Risk' category.
 9.4% of students belong to the 'High Risk' category.
@@ -7,3 +13,4 @@ Students classified as 'High Risk' have the lowest average attendance.
 Students with 'High' study habits achieve the highest average final marks.
 Students with 'High' engagement demonstrate the strongest academic performance.
 The strongest predictor of final examination marks is 'Average_Internal_Score' with correlation 0.87.
+main
